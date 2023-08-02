@@ -1,4 +1,4 @@
-name: Portfolio Deployment
+name: My-portfolio-website
 
 on:
   push:
